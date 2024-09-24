@@ -16,7 +16,7 @@ Laravel REST API Project ini berupa Sistem Gudang yang di dalamnya terdapat 3 Mo
 
 - **Clone Repository ini ke Perangkat anda [https://github.com/MuflihunAzis/IDGrowProject](https://github.com/MuflihunAzis/IDGrowProject)**
 - **Masuk ke Repository anda [CD repo-name]**
-- **[WebReinvent](https://webreinvent.com/)**
+- **Install Dependensi Project [composer install]**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
 - **[64 Robots](https://64robots.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
