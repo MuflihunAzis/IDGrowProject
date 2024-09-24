@@ -24,9 +24,9 @@ Laravel REST API Project ini berupa Sistem Gudang yang di dalamnya terdapat 3 Mo
 - **Optimasi Server Project [php artisan optimize]**
 
 
-## Laravel Sponsors
+## Dokumentasi Penggunaan Endpoint REST API Menggunakan Postman
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Untuk Menjalankan dan menguji fungsi Project ini, Gunakan Postman untuk mengakses REST API. Berikut daftar Endpoint REST API dari pengujian masing-masing Model Kunjungi Address berikut [REST API Endpoint Postman].
 
 ### Premium Partners
 
