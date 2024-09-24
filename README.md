@@ -44,7 +44,7 @@ Untuk Menjalankan dan menguji fungsi Project ini, Gunakan Postman untuk mengakse
 
 ## Link Workspace Pengujian REST API Pada Postman
 
-Berikut ini merupakan link workspace Pengujian REST API Pada Postman [https://api.postman.com/collections/38200941-b5067686-1215-4255-a248-3f91b45d81f3?access_key=PMAT-01J8JWNQBJDK7ZZXZXXTY86JEJ]([https://laravel.com/docs/contributions](https://api.postman.com/collections/38200941-b5067686-1215-4255-a248-3f91b45d81f3?access_key=PMAT-01J8JWNQBJDK7ZZXZXXTY86JEJ)).
+Berikut ini merupakan link workspace Pengujian REST API Pada Postman [Link Berikut]([https://laravel.com/docs/contributions](https://api.postman.com/collections/38200941-b5067686-1215-4255-a248-3f91b45d81f3?access_key=PMAT-01J8JWNQBJDK7ZZXZXXTY86JEJ)).
 
 ## Code of Conduct
 
