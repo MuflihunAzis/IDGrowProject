@@ -29,18 +29,18 @@ Laravel REST API Project ini berupa Sistem Gudang yang di dalamnya terdapat 3 Mo
 Untuk Menjalankan dan menguji fungsi Project ini, Gunakan Postman untuk mengakses REST API. Berikut daftar Endpoint REST API dari masing-masing Model. Kunjungi Address berikut :
 
 
-- **Register[http://localhost:8000/api/register](http://localhost:8000/api/register)**
-- **[Login](http://localhost:8000/api/login)**
-- **[CreateBarang](http://localhost:8000/api/barang)**
-- **[GetBarang](http://localhost:8000/api/barang)**
-- **[UpdateBarang](http://localhost:8000/api/barang/id-barang)**
-- **[DeleteBarang](http://localhost:8000/api/barang/id-barang)**
-- **[CreateMutasi](http://localhost:8000/api/mutasi)**
-- **[GetMutasi](http://localhost:8000/api/mutasi)**
-- **[UpdateMutasi](http://localhost:8000/api/mutasi/id-mutasi)**
-- **[DeleteMutasi](http://localhost:8000/api/mutasi/id-mutasi)**
-- **[History Mutasi For Barang](http://localhost:8000/api/barang/barang-id/mutasi)**
-- **[History Mutasi For User](http://localhost:8000/api/barang/user-id/mutasi)**
+- **Register [http://localhost:8000/api/register](http://localhost:8000/api/register)**
+- **Login [http://localhost:8000/api/login](http://localhost:8000/api/login)**
+- **CreateBarang [http://localhost:8000/api/barang](http://localhost:8000/api/barang)**
+- **GetBarang [http://localhost:8000/api/barang/id-barang](http://localhost:8000/api/barang)**
+- **UpdateBarang [](http://localhost:8000/api/barang/id-barang)**
+- **DeleteBarang [http://localhost:8000/api/barang/id-barang](http://localhost:8000/api/barang/id-barang)**
+- **CreateMutasi [http://localhost:8000/api/mutasi](http://localhost:8000/api/mutasi)**
+- **GetMutasi [http://localhost:8000/api/mutasi](http://localhost:8000/api/mutasi)**
+- **UpdateMutasi [http://localhost:8000/api/mutasi/id-mutasi](http://localhost:8000/api/mutasi/id-mutasi)**
+- **DeleteMutasi [http://localhost:8000/api/mutasi/id-mutasi](http://localhost:8000/api/mutasi/id-mutasi)**
+- **History Mutasi For Barang [http://localhost:8000/api/barang/barang-id/mutasi](http://localhost:8000/api/barang/barang-id/mutasi)**
+- **History Mutasi For User [http://localhost:8000/api/barang/user-id/mutasi](http://localhost:8000/api/barang/user-id/mutasi)**
 
 ## Contributing
 
