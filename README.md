@@ -17,16 +17,11 @@ Laravel REST API Project ini berupa Sistem Gudang yang di dalamnya terdapat 3 Mo
 - **Clone Repository ini ke Perangkat anda [https://github.com/MuflihunAzis/IDGrowProject](https://github.com/MuflihunAzis/IDGrowProject)**
 - **Masuk ke Repository anda [CD repo-name]**
 - **Install Dependensi Project [composer install]**
-- **Buat File .env lalu salin .env.example ke .env**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+- **Buat File .env lalu salin .env.example ke .env. Sesuaikan konfigurasi database di .env**
+- **Generate Key Project [php artisan key:generate]**
+- **Migrasi Database [php artisan migrate]**
+- **Jalankan Server Project [php artisan serve]**
+- **Optimasi Server Project [php artisan optimize]**
 
 
 ## Laravel Sponsors
