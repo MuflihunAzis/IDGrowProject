@@ -42,9 +42,9 @@ Untuk Menjalankan dan menguji fungsi Project ini, Gunakan Postman untuk mengakse
 - **History Mutasi For Barang [http://localhost:8000/api/barang/barang-id/mutasi](http://localhost:8000/api/barang/barang-id/mutasi)**
 - **History Mutasi For User [http://localhost:8000/api/barang/user-id/mutasi](http://localhost:8000/api/barang/user-id/mutasi)**
 
-## Contributing
+## Link Workspace Pengujian REST API Pada Postman
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Berikut ini merupakan link workspace Pengujian REST API Pada Postman [https://api.postman.com/collections/38200941-b5067686-1215-4255-a248-3f91b45d81f3?access_key=PMAT-01J8JWNQBJDK7ZZXZXXTY86JEJ]([https://laravel.com/docs/contributions](https://api.postman.com/collections/38200941-b5067686-1215-4255-a248-3f91b45d81f3?access_key=PMAT-01J8JWNQBJDK7ZZXZXXTY86JEJ)).
 
 ## Code of Conduct
 
