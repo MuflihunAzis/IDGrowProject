@@ -14,7 +14,7 @@ Laravel REST API Project ini berupa Sistem Gudang yang di dalamnya terdapat 3 Mo
 
 ## Cara Install Project
 
-- **(Clone Repository ini ke Perangkat anda [https://github.com/MuflihunAzis/IDGrowProject](https://github.com/MuflihunAzis/IDGrowProject))**
+- **Clone Repository ini ke Perangkat anda [https://github.com/MuflihunAzis/IDGrowProject](https://github.com/MuflihunAzis/IDGrowProject)**
 - **[Tighten Co.](https://tighten.co)**
 - **[WebReinvent](https://webreinvent.com/)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
