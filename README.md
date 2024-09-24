@@ -26,23 +26,21 @@ Laravel REST API Project ini berupa Sistem Gudang yang di dalamnya terdapat 3 Mo
 
 ## Dokumentasi Penggunaan Endpoint REST API Menggunakan Postman
 
-Untuk Menjalankan dan menguji fungsi Project ini, Gunakan Postman untuk mengakses REST API. Berikut daftar Endpoint REST API dari pengujian masing-masing Model Kunjungi Address berikut [REST API Endpoint Postman].
+Untuk Menjalankan dan menguji fungsi Project ini, Gunakan Postman untuk mengakses REST API. Berikut daftar Endpoint REST API dari masing-masing Model. Kunjungi Address berikut :
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+- **[Register](http://localhost:8000/api/register)**
+- **[Login](http://localhost:8000/api/login)**
+- **[CreateBarang](http://localhost:8000/api/barang)**
+- **[GetBarang](http://localhost:8000/api/barang)**
+- **[UpdateBarang](http://localhost:8000/api/barang/id-barang)**
+- **[DeleteBarang](http://localhost:8000/api/barang/id-barang)**
+- **[CreateMutasi](http://localhost:8000/api/mutasi)**
+- **[GetMutasi](http://localhost:8000/api/mutasi)**
+- **[UpdateMutasi](http://localhost:8000/api/mutasi/id-mutasi)**
+- **[DeleteMutasi](http://localhost:8000/api/mutasi/id-mutasi)**
+- **[History Mutasi For Barang](http://localhost:8000/api/barang/barang-id/mutasi)**
+- **[History Mutasi For User](http://localhost:8000/api/barang/user-id/mutasi)**
 
 ## Contributing
 
