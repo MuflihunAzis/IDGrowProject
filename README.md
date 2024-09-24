@@ -29,7 +29,7 @@ Laravel REST API Project ini berupa Sistem Gudang yang di dalamnya terdapat 3 Mo
 Untuk Menjalankan dan menguji fungsi Project ini, Gunakan Postman untuk mengakses REST API. Berikut daftar Endpoint REST API dari masing-masing Model. Kunjungi Address berikut :
 
 
-- **[Register](http://localhost:8000/api/register)**
+- **Register[http://localhost:8000/api/register](http://localhost:8000/api/register)**
 - **[Login](http://localhost:8000/api/login)**
 - **[CreateBarang](http://localhost:8000/api/barang)**
 - **[GetBarang](http://localhost:8000/api/barang)**
