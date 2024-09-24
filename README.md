@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Laravel REST API PROJECT
+## Laravel REST API Project
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel REST API Project ini berupa Sistem Gudang yang di dalamnya terdapat 3 Model yaitu User, Barang dan Mutasi yang mampu mengoperasikan beberapa fungsi diantaranya Register dan Login dengan Generate Token serta Operasi CRUD terhadap setiap model. Selain Itu juga mampu menampilkan histori mutasi untuk tiap user maupun barang dan dalam bentuk output data berupa JSON. Project ini dapat di deploy ke server menggunakan DockerFile dan disertakan pula link Workspace yang terpublish pada Pengujian di PostMan. Berikut ini merupakan cara install dan run projectnya:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
