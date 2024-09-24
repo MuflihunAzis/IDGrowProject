@@ -33,7 +33,7 @@ Untuk Menjalankan dan menguji fungsi Project ini, Gunakan Postman untuk mengakse
 - **Login [http://localhost:8000/api/login](http://localhost:8000/api/login)**
 - **CreateBarang [http://localhost:8000/api/barang](http://localhost:8000/api/barang)**
 - **GetBarang [http://localhost:8000/api/barang/id-barang](http://localhost:8000/api/barang)**
-- **UpdateBarang [](http://localhost:8000/api/barang/id-barang)**
+- **UpdateBarang [http://localhost:8000/api/barang/id-barang](http://localhost:8000/api/barang/id-barang)**
 - **DeleteBarang [http://localhost:8000/api/barang/id-barang](http://localhost:8000/api/barang/id-barang)**
 - **CreateMutasi [http://localhost:8000/api/mutasi](http://localhost:8000/api/mutasi)**
 - **GetMutasi [http://localhost:8000/api/mutasi](http://localhost:8000/api/mutasi)**
