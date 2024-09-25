@@ -14,14 +14,33 @@ Laravel REST API Project ini berupa Sistem Gudang yang di dalamnya terdapat 3 Mo
 
 ## Cara Install Project
 
-- **Clone Repository ini ke Perangkat anda [https://github.com/MuflihunAzis/IDGrowProject](https://github.com/MuflihunAzis/IDGrowProject)**
-- **Masuk ke Repository anda [CD repo-name]**
-- **Install Dependensi Project [composer install]**
-- **Buat File .env lalu salin .env.example ke .env. Sesuaikan konfigurasi database di .env**
-- **Generate Key Project [php artisan key:generate]**
-- **Migrasi Database [php artisan migrate]**
-- **Jalankan Server Project [php artisan serve]**
-- **Optimasi Server Project [php artisan optimize]**
+```Cara Install Project
+
+# Clone Repository Ini Ke Perangkat anda
+$ https://github.com/MuflihunAzis/IDGrowProject
+
+# Masuk Ke Repository anda
+$ CD repo-name
+
+# Install Dependensi Project
+$ composer install
+
+# Buat File .env lalu salin .env.example ke .env. 
+$ Sesuaikan konfigurasi database di .env
+
+# Generate Key Project
+$ php artisan key:generate
+
+# Migrasi Database
+$ php artisan migrate
+
+# Optimasi Server Project
+$ php artisan optimize
+
+# Jalankan Server Project
+$ php artisan serve
+
+```
 
 
 ## Dokumentasi Penggunaan Endpoint REST API Menggunakan Postman
